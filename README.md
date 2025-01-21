@@ -1,3 +1,4 @@
+
 **UDEMY COURSE WITH DISCOUNTED - Step by Step Development of this Repository -> https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/?couponCode=MARC24**
 
 See the overall picture of **implementations on microservices with .net tools** on real-world **e-commerce microservices** project;
@@ -94,6 +95,3 @@ docker-compose -f docker-compose.yml -f docker-compose.override.yml up -d
 * **Mehmet Ozkaya** - *Initial work* - [mehmetozkaya](https://github.com/mehmetozkaya)
 
 See also the list of [contributors](https://github.com/aspnetrun/run-core/contributors) who participated in this project. Check also [gihtub page of repository.](https://aspnetrun.github.io/run-aspnetcore-angular-realworld/)
-
-
-
